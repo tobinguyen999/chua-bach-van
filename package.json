@@ -1,0 +1,9 @@
+{
+  "name": "chua-bach-van",
+  "version": "1.0.0",
+  "description": "Chùa Bạch Vân - chùa 3D trực tuyến nhiều người chơi",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
